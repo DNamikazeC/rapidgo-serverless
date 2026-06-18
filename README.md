@@ -11,7 +11,7 @@
 
 | Nombre completo | Rol en el proyecto |
 |-----------------|--------------------|
-| David Castrillon  | Documentación/ADRs / Backend / Implementación / Diagramas |
+| David Castillo Cuadrado | Documentación/ADRs / Backend / Implementación / Diagramas |
 
 
 ---
