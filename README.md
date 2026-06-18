@@ -1,20 +1,18 @@
 # RapidGo · Backend Serverless en Azure
 
-> **Caso 01 — Trabajo Grupal** · Análisis e Implementación de Arquitectura Cloud
+> **Caso 01** · Análisis e Implementación de Arquitectura Cloud
 > Computación en la Nube · Semestre 2026-1 · Tecnológico de Antioquia
-> **Profesor:** Julian David Florez Sanchez
-> **Fecha de entrega:** 14 de mayo de 2026
+> 
+> 
 
 ---
 
-## Integrantes del equipo
+## Integrante del equipo
 
 | Nombre completo | Rol en el proyecto |
 |-----------------|--------------------|
-| Yeifer Andres Castaño Sariego | Backend / Implementación |
-| Juan David Macea | Documentación / Diagramas |
-| David Castrillon  | Documentación/ADRs |
-| Brayan Jaramillo Martinez | [Rol] |
+| David Castrillon  | Documentación/ADRs / Backend / Implementación / Diagramas |
+
 
 ---
 
